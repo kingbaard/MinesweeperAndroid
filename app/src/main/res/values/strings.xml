@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sweeper</string>
+    <string name="title">Super Minesweeper</string>
+    <string name="easy">👶 Easy 👶</string>
+    <string name="intermediate">🙂 Intermediate 🙂</string>
+    <string name="expert">😈 Expert 😈</string>
+</resources>
